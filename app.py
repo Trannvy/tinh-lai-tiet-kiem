@@ -6,7 +6,8 @@ st.set_page_config(
     page_icon="💰",
     layout="centered"
 )
-
+# Chèn ảnh từ thư mục cùng cấp
+st.image("avatar.jpg", use_container_width=True)
 st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm")
 st.write("Nhập thông tin tiền gửi bên dưới để tính toán lãi tiết kiệm theo **lãi đơn** hoặc **lãi kép**.")
 
