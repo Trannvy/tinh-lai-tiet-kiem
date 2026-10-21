@@ -12,7 +12,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 SaveQuest")
+st.title("💰 CONG CU TINH LAI TIET KIEM_TRAN NGOC THUY VY")
 st.subheader("Hành trình chinh phục mục tiêu")
 st.write(
     "Không chỉ tính lãi tiết kiệm — SaveQuest giúp bạn lập mục tiêu, "
